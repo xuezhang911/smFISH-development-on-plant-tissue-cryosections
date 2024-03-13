@@ -7,5 +7,5 @@ File and R script required to generate Seurat object for downstream analysis. No
 Bash script to preprocess RNA-seq.  The fastq file for WT was collected from  NCBI study: GSE96945
 # smFISHprobes
 Details of smFISH probes used in this manuscript and script used to QC probe sequence
-# results
+# Results
 Scripts, tables, genated data for main figures and supplementary figures in this manuscript
